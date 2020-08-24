@@ -19,7 +19,7 @@ The API is as follows:
 class MyAngularComponent {
     // ...
 }
-
+test
 register(appName)
     .controller('MyController', MyAngularComponent)
     .service('myService', MyAngularComponent)
