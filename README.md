@@ -45,7 +45,7 @@ class UserService {
 
 register('app').service('userService', UserService);
 ```
-
+test
 ### Controller
 
 ```JavaScript
